@@ -50,6 +50,9 @@ Video Demo for the application: [Video](https://youtu.be/Rz3_PmW4LyY).
 * [Node.js](https://nodejs.org/)
 * [Inquirer.js](https://www.npmjs.com/package/inquirer)
 * [MySQL](https://www.npmjs.com/package/mysql)
+* [Sequelize](https://www.npmjs.com/package/sequelize)
+* [Dotenv](https://www.npmjs.com/package/dotenv)
+* [Insomnia](https://insomnia.rest)
 
 ## Installation
 
