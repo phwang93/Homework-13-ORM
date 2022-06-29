@@ -2,7 +2,7 @@
 Create a mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
 
 <p align = "center">
-<img alt="preview" src="./imgs/screenshot.png">
+<img alt="preview" src="./imgs/Demo.gif">
 </p>
 
 ## User Story
@@ -30,7 +30,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 ## E-Commerce Backend Demo 
 
-Video Demo for the application: [Video](https://youtu.be/TS4lhvd99LE).
+Video Demo for the application: [Video](https://youtu.be/Rz3_PmW4LyY).
 ## Table of Contents
 
 - [Homework-13-ORM](#homework-13-orm)
@@ -52,6 +52,10 @@ Video Demo for the application: [Video](https://youtu.be/TS4lhvd99LE).
 * [MySQL](https://www.npmjs.com/package/mysql)
 
 ## Installation
+
+<p align = "center">
+<img alt="preview" src="./imgs/setup.gif">
+</p>
 
 * Git Clone the Repo into your system
 
@@ -96,4 +100,4 @@ If you have any questions, please contact me at:
 * Email: [pshwang93@gmail.com](mailto:pshwang93@gmail.com). 
 * GitHub: [phwang93](https://github.com/phwang93).
 * Repo: [Homework-13-ORM](https://github.com/phwang93/Homework-13-ORM).
-* Video: [E-Commerce Backend Demo](https://youtu.be/TS4lhvd99LE).
+* Video: [E-Commerce Backend Demo](https://youtu.be/Rz3_PmW4LyY).

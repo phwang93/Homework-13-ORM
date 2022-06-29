@@ -55,7 +55,6 @@ router.post('/', (req, res) => {
   Category.create({
     category_name: req.body.category_name
   })
-  console.log('New Category has been created')
   .then(CategoryData => res.json(CategoryData))
   .catch(err => {
     console.log(err);
